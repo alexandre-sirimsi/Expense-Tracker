@@ -21,6 +21,6 @@ function App() {
       </div>
     </GlobalProvider>
   );
-} // TIME YB : 9:34
+}
 
 export default App;
